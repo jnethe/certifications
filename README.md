@@ -6,7 +6,7 @@
 
 <embed src="AI-practitioner-AWS-cert.pdf" width="100%" height="600px" type="application/pdf">
 
-[![AWS AI Cert Preview](images/AWS-practitioner-AI-cert-image.png)](AI-practitioner-AWS-cert.pdf)
+[![AWS AI Cert Preview](images/AI-practitioner-AWS-cert-image.png)](AI-practitioner-AWS-cert.pdf)
 
 
 
